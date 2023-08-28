@@ -1,20 +1,14 @@
-# arasgungore.github.io
-
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
-
-
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://snega-portfolio.netlify.app/).
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.jpg" width="800">
+    <img src="https://github.com/Snegajanarthanan/MyPortfolio/blob/main/Screenshots/1.jpg" width="800">
 </p>
-
-
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Snega Janarthanan**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+- LinkedIn: [@Snega Janarthanan](https://www.linkedin.com/in/snega-janarthanan-624199132/)
+- GitHub: [@Snega Janarthanan](https://github.com/Snegajanarthanan)
