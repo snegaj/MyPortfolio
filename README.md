@@ -1,4 +1,4 @@
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://snega-portfolio.netlify.app/).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://snegajanarthanan.netlify.app/).
 
 ## Screenshots
 
